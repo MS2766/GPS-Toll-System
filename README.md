@@ -36,7 +36,7 @@ This project is a simulation system designed to simulate vehicle movement and to
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/toll-based-simulation.git
+    git clone https://github.com/Dhanushranga1/toll-based-simulation.git
     cd toll-based-simulation
 
 
@@ -46,9 +46,6 @@ This project is a simulation system designed to simulate vehicle movement and to
     
 
 3. Install the required dependencies:
-    
-    pip install -r requirements.txt
-    
 
 ## Running the Application
 
