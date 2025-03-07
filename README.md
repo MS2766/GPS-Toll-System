@@ -73,7 +73,3 @@ The simulation involves vehicles moving from a start location to an end location
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting pull requests. Any improvements and suggestions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
